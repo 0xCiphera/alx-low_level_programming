@@ -1,6 +1,7 @@
 #ifndef LISTS_H
 #define LISTS_H
 
+#include <stdlib.h>
 /*
  * File: lists.h
  * Author: Adedoyin Emmanuel Adeniyi
@@ -8,7 +9,7 @@
  *       and types written in the 0x12-more_singly_linked_lists directory.
  */
 
-#include <stdlib.h>
+
 
 typedef struct listint_s
 {
