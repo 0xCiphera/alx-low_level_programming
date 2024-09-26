@@ -1,0 +1,1 @@
+Task attempted in 0X05pointers_arrays_strings
