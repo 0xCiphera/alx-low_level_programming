@@ -1,0 +1,1 @@
+This Entails everything i learn and practice from Cs50 course
